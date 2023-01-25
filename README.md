@@ -1,6 +1,6 @@
-# Laravel 9.x for Laravel Shift
+# Laravel 10.x for Laravel Shift
 
-This repository contains the latest version of Laravel 9. It is used as a reference by [Laravel Shift - the automated way to upgrade Laravel applications](https://laravelshift.com).
+This repository contains the latest version of Laravel 10. It is used as a reference by [Laravel Shift - the automated way to upgrade Laravel applications](https://laravelshift.com).
 
 ## About Shift
 *Shift* focuses on providing [automated Shifts](https://laravelshift.com/shifts) and [Human Shifts](https://laravelshift.com/human-shifts) for upgrading and improving your Laravel, Lumen, PHP, and Tailwind projects.
