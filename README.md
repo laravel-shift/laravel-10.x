@@ -1,66 +1,55 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# Laravel 9.x for Laravel Shift
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+This repository contains the latest version of Laravel 9. It is used as a reference by [Laravel Shift - the automated way to upgrade Laravel applications](https://laravelshift.com).
 
-## About Laravel
+## About Shift
+*Shift* focuses on providing [automated Shifts](https://laravelshift.com/shifts) and [Human Shifts](https://laravelshift.com/human-shifts) for upgrading and improving your Laravel, Lumen, PHP, and Tailwind projects.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Shifts for *Laravel* include:
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+- [Laravel 5.0 Shift - upgrade Laravel from 4.2 to 5.0](https://laravelshift.com/upgrade-laravel-4.2-to-laravel-5.0)
+- [Laravel 5.1 Shift - upgrade Laravel from 5.0 to 5.1](https://laravelshift.com/upgrade-laravel-5.0-to-laravel-5.1) 
+- [Laravel 5.2 Shift - upgrade Laravel from 5.1 to 5.2](https://laravelshift.com/upgrade-laravel-5.1-to-laravel-5.2) 
+- [Laravel 5.3 Shift - upgrade Laravel from 5.2 to 5.3](https://laravelshift.com/upgrade-laravel-5.2-to-laravel-5.3)
+- [Laravel 5.4 Shift - upgrade Laravel from 5.3 to 5.4](https://laravelshift.com/upgrade-laravel-5.3-to-laravel-5.4)
+- [Laravel 5.5 Shift - upgrade Laravel from 5.4 to 5.5](https://laravelshift.com/upgrade-laravel-5.4-to-laravel-5.5)
+- [Laravel 5.6 Shift - upgrade Laravel from 5.5 to 5.6](https://laravelshift.com/upgrade-laravel-5.5-to-laravel-5.6)
+- [Laravel 5.7 Shift - upgrade Laravel from 5.6 to 5.7](https://laravelshift.com/upgrade-laravel-5.6-to-laravel-5.7)
+- [Laravel 5.8 Shift - upgrade Laravel from 5.7 to 5.8](https://laravelshift.com/upgrade-laravel-5.7-to-laravel-5.8)
+- [Laravel 6.x Shift - upgrade Laravel from 5.8 to 6.x](https://laravelshift.com/upgrade-laravel-5.8-to-laravel-6.0)
+- [Laravel 7.x Shift - upgrade Laravel from 6.x to 7.x](https://laravelshift.com/upgrade-laravel-6-to-laravel-7)
+- [Laravel 8.x Shift - upgrade Laravel from 7.x to 8.x](https://laravelshift.com/upgrade-laravel-7-to-laravel-8)
+- [Laravel 9.x Shift - upgrade Laravel from 8.x to 9.x](https://laravelshift.com/upgrade-laravel-8-to-laravel-9)
+- [Laravel Linter - detect lint in your Laravel project](https://laravelshift.com/laravel-linter) 
+- [Laravel Analyzer - are you following the "Laravel Way"](https://laravelshift.com/opinionated-laravel-way-shift) 
+- [Laravel Fixer - automate changes to the "Laravel Way"](https://laravelshift.com/laravel-code-fixer)
+- [Laravel Tests Generator - generate HTTP tests for your Laravel application](https://laravelshift.com/laravel-test-generator) 
+- [Namespace Models Shift - move Models to app/Models](https://laravelshift.com/laravel-namespace-models)
+- [Consolidate Namespace Shift - condense custom namespaces with Laravel](https://laravelshift.com/laravel-consolidate-custom-namespaces)
+- [BrowserKit Tests Converter - upgrade tests from BrowserKit](https://laravelshift.com/upgrade-laravel-5.3-tests-to-laravel-5.4-tests)
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## Learning Laravel
+Shifts for *Lumen* include:
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+- [Lumen to Laravel - convert a Lumen project to Laravel](https://laravelshift.com/convert-lumen-to-laravel) 
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+Shifts for *PHP* include:
 
-## Laravel Sponsors
+- [PSR-2 - adopt the PSR-2 code style](https://laravelshift.com/upgrade-psr2-code-style-standard)
+- [PSR-4 - upgrade from PSR-0 to PSR-4](https://laravelshift.com/upgrade-namespace-psr0-psr4)
+- [Mysqli Shift - covert mysql to mysqli](https://laravelshift.com/upgrade-mysql-mysqli)
+- [PHPUnit 6 Shift - upgrade tests for PHPUnit 6](https://laravelshift.com/upgrade-phpunit-6)
+- [PHPUnit 8 Shift - upgrade tests for PHPUnit 8](https://laravelshift.com/upgrade-phpunit-8)
+- [PHPUnit 9 Shift - upgrade tests for PHPUnit 9](https://laravelshift.com/upgrade-phpunit-9)
+- [Pest Converter - convert a PHPUnit test suite to Pest](https://laravelshift.com/phpunit-to-pest-converter)
+- [CI Generator - generate CI workflows](https://laravelshift.com/ci-generator)
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+Shifts for *Tailwind* include:
 
-### Premium Partners
+- [Tailwind 1.x Shift - upgrade Tailwind from 0.x to 1.x](https://laravelshift.com/upgrade-tailwind-css-0-to-tailwind-css-1)
+- [Tailwind 2.x Shift - upgrade Tailwind from 1.x to 2.x](https://laravelshift.com/upgrade-tailwind-css-1-to-tailwind-css-2)
+- [Tailwind 3.x Shift - upgrade Tailwind from 2.x to 3.x](https://laravelshift.com/upgrade-tailwind-css-2-to-tailwind-css-3)
+- [Tailwind UI Shift - upgrade Tailwind UI from 1.x to 2.x](https://laravelshift.com/upgrade-tailwind-ui-1-to-tailwind-ui-2)
+- [Tailwind Converter - convert Bootstrap CSS to Tailwind CSS](https://laravelshift.com/convert-bootstrap-to-tailwind-css)
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
