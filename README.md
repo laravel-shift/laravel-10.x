@@ -21,13 +21,13 @@ Shifts for *Laravel* include:
 - [Laravel 8.x Shift - upgrade Laravel from 7.x to 8.x](https://laravelshift.com/upgrade-laravel-7-to-laravel-8)
 - [Laravel 9.x Shift - upgrade Laravel from 8.x to 9.x](https://laravelshift.com/upgrade-laravel-8-to-laravel-9)
 - [Laravel 10.x Shift - upgrade Laravel from 9.x to 10.x](https://laravelshift.com/upgrade-laravel-9-to-laravel-10)
+- [Upgrade Checker - detect outdated code within your Laravel project](https://laravelshift.com/laravel-upgrade-checker)
 - [Laravel Linter - detect lint in your Laravel project](https://laravelshift.com/laravel-linter)
-- [Laravel Analyzer - are you following the "Laravel Way"](https://laravelshift.com/opinionated-laravel-way-shift)
 - [Laravel Fixer - automate changes to the "Laravel Way"](https://laravelshift.com/laravel-code-fixer)
 - [Laravel Tests Generator - generate HTTP tests for your Laravel application](https://laravelshift.com/laravel-test-generator)
 - [Namespace Models Shift - move Models to app/Models](https://laravelshift.com/laravel-namespace-models)
 - [Consolidate Namespace Shift - condense custom namespaces with Laravel](https://laravelshift.com/laravel-consolidate-custom-namespaces)
-- [BrowserKit Tests Converter - upgrade tests from BrowserKit](https://laravelshift.com/upgrade-laravel-5.3-tests-to-laravel-5.4-tests)
+- [Vite Converter - convert from Laravel Mix to Vite](https://laravelshift.com/convert-laravel-mix-to-vite)
 
 
 Shifts for *Lumen* include:
@@ -45,6 +45,7 @@ Shifts for *PHP* include:
 - [PHPUnit 9 Shift - upgrade tests for PHPUnit 9](https://laravelshift.com/upgrade-phpunit-9)
 - [Pest Converter - convert a PHPUnit test suite to Pest](https://laravelshift.com/phpunit-to-pest-converter)
 - [CI Generator - generate CI workflows](https://laravelshift.com/ci-generator)
+- [Dependency Upgrader - bump all your Composer dependencies at once](https://laravelshift.com/composer-dependency-upgrader)
 
 Shifts for *Tailwind* include:
 
